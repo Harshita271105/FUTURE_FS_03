@@ -37,7 +37,7 @@ The website focuses on clean UI/UX, responsive design, and realistic e-commerce 
 
 ## 🌐 Live Demo
 
-👉 myntra-redesign.vercel.app
+👉 https://myntra-redesign.vercel.app
 
 ## 📚 What I Learned
 
