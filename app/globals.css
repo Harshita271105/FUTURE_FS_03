@@ -24,3 +24,9 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Global text color fix */
+body {
+  color: #111111; /* near-black for readability */
+  background-color: #ffffff;
+}
